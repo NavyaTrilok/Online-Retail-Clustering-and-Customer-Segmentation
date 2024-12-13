@@ -31,7 +31,7 @@ F(Frequency): Number of transactions
 
 M(Monetory): Total amount of transactions (revenue contributed)
 
-**Business Metrics**
+**Business Metrics :**
 
 - Revenue per Visitor (RPV): Measures the revenue generated per customer visit.
 - Average Order Value (AOV): The average dollar amount spent each time a customer places an order.

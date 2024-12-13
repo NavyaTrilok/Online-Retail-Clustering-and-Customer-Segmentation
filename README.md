@@ -23,4 +23,13 @@ Increasing Customer Retention and Loyalty
 
 Identifying New Market Opportunities
 
+**Business Metrics **
 
+- Revenue per Visitor (RPV): Measures the revenue generated per customer visit.
+- Average Order Value (AOV): The average dollar amount spent each time a customer places an order.
+- Conversion Rate: The percentage of visitors who make a purchase.
+- Stock Turnover Ratio: How quickly inventory is sold and replaced over a specific period.
+- Gross Margin Return on Investment (GMROI): Measures the profitability of inventory.
+
+  Code for clustering or segmentation of user behaviour is found in jupyter notebook attached.
+  Also, Business metrics are below in the notebook.

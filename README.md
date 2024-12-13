@@ -23,7 +23,7 @@ Increasing Customer Retention and Loyalty
 
 Identifying New Market Opportunities
 
-**Business Metrics **
+**Business Metrics**
 
 - Revenue per Visitor (RPV): Measures the revenue generated per customer visit.
 - Average Order Value (AOV): The average dollar amount spent each time a customer places an order.

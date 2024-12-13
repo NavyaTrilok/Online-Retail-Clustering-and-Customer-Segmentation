@@ -23,6 +23,14 @@ Increasing Customer Retention and Loyalty
 
 Identifying New Market Opportunities
 
+We are going to analyse the customer based on below 3 factors:
+
+R(Recency): Number of days since last purchase
+
+F(Frequency): Number of transactions
+
+M(Monetory): Total amount of transactions (revenue contributed)
+
 **Business Metrics**
 
 - Revenue per Visitor (RPV): Measures the revenue generated per customer visit.

@@ -23,7 +23,7 @@ Increasing Customer Retention and Loyalty
 
 Identifying New Market Opportunities
 
-We are going to analyse the customer based on below 3 factors:
+**We are going to analyse the customer based on below 3 factors:**
 
 R(Recency): Number of days since last purchase
 
